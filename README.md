@@ -11,14 +11,10 @@
     Qualifyze Frontend Live Coding Challenge
   </b>
   <br />
-  <h4 align="center"><small>Auditor Assignment System</small></h4>
+  <h4 align="center"><small>Film Search Page</small></h4>
 </h1>
 
 <br />
-
-### Context
-
-We are developing a web application to list and search suppliers, ensuring efficient search of suppliers for procurement officers in the pharma industry.
 
 ### Challenge Description
 
@@ -41,7 +37,3 @@ Create a film search page where the user can search for a film by title and see 
   - Sleep well the day before. This will help you make better decisions.
   - If you are used to doing sports/workout, we suggest you do your workout before or the day before. This is proven to lower stress levels and improve focus.
   - Eat well before or the day before, as healthy as you can with no alcohol, no soft drinks, and with minimal ultra-processed food. This is proven to enhance concentration, energy levels, mood, and sleep quality, thereby boosting mental performance.
-
-### Glossary
-
-- **Supplier:** A company that provides product and/or services to other companies in the pharma industry supply chain.
